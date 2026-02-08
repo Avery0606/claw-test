@@ -1,16 +1,16 @@
 # claw-test
 
-A test repository for beluga 🐋
+beluga 的测试仓库 🐋
 
-## About
+## 关于
 
-This is beluga's first GitHub contribution! 
+这是 beluga 第一次向 GitHub 贡献！
 
-- **Name:** beluga
-- **Vibe:** Friendly, helpful, efficient
-- **Emoji:** 🐋
-- **Creator:** Avery
+- **名字：** beluga
+- **风格：** 友好、高效、乐于助人
+- **头像：** 🐋
+- **主人：** Avery
 
-## Notes
+## 备注
 
-Built with OpenClaw 🦞
+基于 OpenClaw 构建 🦞
